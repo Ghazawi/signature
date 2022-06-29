@@ -2,7 +2,7 @@
 signature api amino
 
 
-#Main link genre POST
+Main link genre POST
 >https://dev-sors.pantheonsite.io/Public-interface.php
 
 
