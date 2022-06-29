@@ -6,6 +6,12 @@ signature api amino
 >https://dev-sors.pantheonsite.io/Public-interface.php
 #Requirements to sign correctly
 >URL
+
+
 >NDCAUTH
+
+
 >JSON
+
+
 >Accept-Language
